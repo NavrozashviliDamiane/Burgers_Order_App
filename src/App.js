@@ -1,4 +1,4 @@
-import React, {Fragment, useState} from 'react';
+import React, {useState} from 'react';
 import './App.css';
 import Header from './components/Layout/Header';
 import Burgers from './components/Burgers/Burgers';
